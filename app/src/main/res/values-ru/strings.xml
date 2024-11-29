@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="from">Откуда</string>
+    <string name="to">Куда</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="date">Дата</string>
+    <string name="any">Любой</string>
+    <string name="title">Расписание пригородного и \nмеждугородного транспорта</string>
+    <string name="find">Найти</string>
+    <string name="error_no_input_output">Ошибка. Заполните все поля</string>
+    <string name="error_no_way">Ошибка. Нет маршрутов</string>
+    <string name="loading">Загрузка</string>
+</resources>
